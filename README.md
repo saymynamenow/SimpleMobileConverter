@@ -1,20 +1,7 @@
-<<<<<<< HEAD
-# SimpleMobileConverter
-=======
-# konversi_app
+## Simple Mobile Converter
 
-A new Flutter project.
+## Author
+Nexel
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> b4566bd825ae22a2b42272955dd58ad86df561eb
+## Simple Mobile Converter
+This application can convert distance units just by inputting them. This app i make because this is my first project in flutter, and i start from basic like this.
